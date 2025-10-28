@@ -1,0 +1,14 @@
+C:\Projects\TaskPlanner_Bulhakov\Rasti1.TaskPlanner\bin\Debug\net7.0\Rasti1.TaskPlanner.exe
+C:\Projects\TaskPlanner_Bulhakov\Rasti1.TaskPlanner\bin\Debug\net7.0\Rasti1.TaskPlanner.deps.json
+C:\Projects\TaskPlanner_Bulhakov\Rasti1.TaskPlanner\bin\Debug\net7.0\Rasti1.TaskPlanner.runtimeconfig.json
+C:\Projects\TaskPlanner_Bulhakov\Rasti1.TaskPlanner\bin\Debug\net7.0\Rasti1.TaskPlanner.dll
+C:\Projects\TaskPlanner_Bulhakov\Rasti1.TaskPlanner\bin\Debug\net7.0\Rasti1.TaskPlanner.pdb
+C:\Projects\TaskPlanner_Bulhakov\Rasti1.TaskPlanner\obj\Debug\net7.0\Rasti1.TaskPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TaskPlanner_Bulhakov\Rasti1.TaskPlanner\obj\Debug\net7.0\Rasti1.TaskPlanner.AssemblyInfoInputs.cache
+C:\Projects\TaskPlanner_Bulhakov\Rasti1.TaskPlanner\obj\Debug\net7.0\Rasti1.TaskPlanner.AssemblyInfo.cs
+C:\Projects\TaskPlanner_Bulhakov\Rasti1.TaskPlanner\obj\Debug\net7.0\Rasti1.TaskPlanner.csproj.CoreCompileInputs.cache
+C:\Projects\TaskPlanner_Bulhakov\Rasti1.TaskPlanner\obj\Debug\net7.0\Rasti1.TaskPlanner.dll
+C:\Projects\TaskPlanner_Bulhakov\Rasti1.TaskPlanner\obj\Debug\net7.0\refint\Rasti1.TaskPlanner.dll
+C:\Projects\TaskPlanner_Bulhakov\Rasti1.TaskPlanner\obj\Debug\net7.0\Rasti1.TaskPlanner.pdb
+C:\Projects\TaskPlanner_Bulhakov\Rasti1.TaskPlanner\obj\Debug\net7.0\Rasti1.TaskPlanner.genruntimeconfig.cache
+C:\Projects\TaskPlanner_Bulhakov\Rasti1.TaskPlanner\obj\Debug\net7.0\ref\Rasti1.TaskPlanner.dll
