@@ -12,3 +12,9 @@ C:\Projects\TaskPlanner_Bulhakov\Rasti1.TaskPlanner\obj\Debug\net7.0\refint\Rast
 C:\Projects\TaskPlanner_Bulhakov\Rasti1.TaskPlanner\obj\Debug\net7.0\Rasti1.TaskPlanner.pdb
 C:\Projects\TaskPlanner_Bulhakov\Rasti1.TaskPlanner\obj\Debug\net7.0\Rasti1.TaskPlanner.genruntimeconfig.cache
 C:\Projects\TaskPlanner_Bulhakov\Rasti1.TaskPlanner\obj\Debug\net7.0\ref\Rasti1.TaskPlanner.dll
+C:\Projects\TaskPlanner_Bulhakov\Rasti1.TaskPlanner\bin\Debug\net7.0\Rasti1.TaskPlanner.Domain.Logic.dll
+C:\Projects\TaskPlanner_Bulhakov\Rasti1.TaskPlanner\bin\Debug\net7.0\Rasti1.TaskPlanner.Domain.Models..dll
+C:\Projects\TaskPlanner_Bulhakov\Rasti1.TaskPlanner\bin\Debug\net7.0\Rasti1.TaskPlanner.Domain.Logic.pdb
+C:\Projects\TaskPlanner_Bulhakov\Rasti1.TaskPlanner\bin\Debug\net7.0\Rasti1.TaskPlanner.Domain.Models..pdb
+C:\Projects\TaskPlanner_Bulhakov\Rasti1.TaskPlanner\obj\Debug\net7.0\Rasti1.TaskPlanner.csproj.AssemblyReference.cache
+C:\Projects\TaskPlanner_Bulhakov\Rasti1.TaskPlanner\obj\Debug\net7.0\Rasti1.TaskPlanner.csproj.CopyComplete

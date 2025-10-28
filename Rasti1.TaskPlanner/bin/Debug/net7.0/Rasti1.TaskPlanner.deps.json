@@ -7,14 +7,41 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "Rasti1.TaskPlanner/1.0.0": {
+        "dependencies": {
+          "Rasti1.TaskPlanner.Domain.Logic": "1.0.0",
+          "Rasti1.TaskPlanner.Domain.Models.": "1.0.0"
+        },
         "runtime": {
           "Rasti1.TaskPlanner.dll": {}
+        }
+      },
+      "Rasti1.TaskPlanner.Domain.Logic/1.0.0": {
+        "dependencies": {
+          "Rasti1.TaskPlanner.Domain.Models.": "1.0.0"
+        },
+        "runtime": {
+          "Rasti1.TaskPlanner.Domain.Logic.dll": {}
+        }
+      },
+      "Rasti1.TaskPlanner.Domain.Models./1.0.0": {
+        "runtime": {
+          "Rasti1.TaskPlanner.Domain.Models..dll": {}
         }
       }
     }
   },
   "libraries": {
     "Rasti1.TaskPlanner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Rasti1.TaskPlanner.Domain.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Rasti1.TaskPlanner.Domain.Models./1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

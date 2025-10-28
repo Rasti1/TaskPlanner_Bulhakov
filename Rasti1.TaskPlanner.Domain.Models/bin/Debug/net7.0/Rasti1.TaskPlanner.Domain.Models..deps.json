@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Rasti1.TaskPlanner.Domain.Models./1.0.0": {
+        "runtime": {
+          "Rasti1.TaskPlanner.Domain.Models..dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rasti1.TaskPlanner.Domain.Models./1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

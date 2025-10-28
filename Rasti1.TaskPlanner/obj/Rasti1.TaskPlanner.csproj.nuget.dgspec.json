@@ -4,6 +4,120 @@
     "C:\\Projects\\TaskPlanner_Bulhakov\\Rasti1.TaskPlanner\\Rasti1.TaskPlanner.csproj": {}
   },
   "projects": {
+    "C:\\Projects\\TaskPlanner_Bulhakov\\Rasti1.TaskPlanner.Domain.Logic\\Rasti1.TaskPlanner.Domain.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\TaskPlanner_Bulhakov\\Rasti1.TaskPlanner.Domain.Logic\\Rasti1.TaskPlanner.Domain.Logic.csproj",
+        "projectName": "Rasti1.TaskPlanner.Domain.Logic",
+        "projectPath": "C:\\Projects\\TaskPlanner_Bulhakov\\Rasti1.TaskPlanner.Domain.Logic\\Rasti1.TaskPlanner.Domain.Logic.csproj",
+        "packagesPath": "C:\\Users\\rostr\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\TaskPlanner_Bulhakov\\Rasti1.TaskPlanner.Domain.Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rostr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Projects\\TaskPlanner_Bulhakov\\Rasti1.TaskPlanner.Domain.Models\\Rasti1.TaskPlanner.Domain.Models..csproj": {
+                "projectPath": "C:\\Projects\\TaskPlanner_Bulhakov\\Rasti1.TaskPlanner.Domain.Models\\Rasti1.TaskPlanner.Domain.Models..csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\TaskPlanner_Bulhakov\\Rasti1.TaskPlanner.Domain.Models\\Rasti1.TaskPlanner.Domain.Models..csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\TaskPlanner_Bulhakov\\Rasti1.TaskPlanner.Domain.Models\\Rasti1.TaskPlanner.Domain.Models..csproj",
+        "projectName": "Rasti1.TaskPlanner.Domain.Models.",
+        "projectPath": "C:\\Projects\\TaskPlanner_Bulhakov\\Rasti1.TaskPlanner.Domain.Models\\Rasti1.TaskPlanner.Domain.Models..csproj",
+        "packagesPath": "C:\\Users\\rostr\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\TaskPlanner_Bulhakov\\Rasti1.TaskPlanner.Domain.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rostr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Projects\\TaskPlanner_Bulhakov\\Rasti1.TaskPlanner\\Rasti1.TaskPlanner.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -27,7 +141,14 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Projects\\TaskPlanner_Bulhakov\\Rasti1.TaskPlanner.Domain.Logic\\Rasti1.TaskPlanner.Domain.Logic.csproj": {
+                "projectPath": "C:\\Projects\\TaskPlanner_Bulhakov\\Rasti1.TaskPlanner.Domain.Logic\\Rasti1.TaskPlanner.Domain.Logic.csproj"
+              },
+              "C:\\Projects\\TaskPlanner_Bulhakov\\Rasti1.TaskPlanner.Domain.Models\\Rasti1.TaskPlanner.Domain.Models..csproj": {
+                "projectPath": "C:\\Projects\\TaskPlanner_Bulhakov\\Rasti1.TaskPlanner.Domain.Models\\Rasti1.TaskPlanner.Domain.Models..csproj"
+              }
+            }
           }
         },
         "warningProperties": {

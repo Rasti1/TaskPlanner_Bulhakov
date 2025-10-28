@@ -5,6 +5,10 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rasti1.TaskPlanner", "Rasti1.TaskPlanner.csproj", "{72EBA783-2960-46AF-A01D-DAB34B97B6BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rasti1.TaskPlanner.Domain.Models.", "..\Rasti1.TaskPlanner.Domain.Models\Rasti1.TaskPlanner.Domain.Models..csproj", "{2BE84E7D-C7CF-481B-87E4-875FC1B5306B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rasti1.TaskPlanner.Domain.Logic", "..\Rasti1.TaskPlanner.Domain.Logic\Rasti1.TaskPlanner.Domain.Logic.csproj", "{88BC5F0E-3F8C-416B-9945-B2792C72404D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{72EBA783-2960-46AF-A01D-DAB34B97B6BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72EBA783-2960-46AF-A01D-DAB34B97B6BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72EBA783-2960-46AF-A01D-DAB34B97B6BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BE84E7D-C7CF-481B-87E4-875FC1B5306B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE84E7D-C7CF-481B-87E4-875FC1B5306B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE84E7D-C7CF-481B-87E4-875FC1B5306B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE84E7D-C7CF-481B-87E4-875FC1B5306B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88BC5F0E-3F8C-416B-9945-B2792C72404D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88BC5F0E-3F8C-416B-9945-B2792C72404D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88BC5F0E-3F8C-416B-9945-B2792C72404D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88BC5F0E-3F8C-416B-9945-B2792C72404D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
